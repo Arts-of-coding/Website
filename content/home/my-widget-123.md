@@ -3,7 +3,7 @@ widget: home
 widget_id: home
 headless: true
 weight: 10
-active: true
+active: false
 design:
   columns: "2"
   background:
