@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: python
-  icon: chart-line
+  icon: python
   icon_pack: fab
   name: Python
 - description: 10%
