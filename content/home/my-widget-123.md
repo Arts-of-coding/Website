@@ -1,5 +1,5 @@
 ---
-widget: homepage
+widget: home
 widget_id: home
 headless: true
 weight: 10
