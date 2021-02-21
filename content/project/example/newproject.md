@@ -1,6 +1,4 @@
-
 ---
-
 title: Reading Frame Essentials
 summary: Reading_frame_essentials contains code with functions used for determining amino acids, corresponding basepairs from DNA sequences. The effect of these two in relation to indels and fusion proteins can also be determined.
 tags:
