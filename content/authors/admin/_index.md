@@ -36,4 +36,4 @@ In 2016, I started the bachelor Biology at Utrecht University from which I obtai
 
 Furthermore, I worked at BlueLinked through the organization Advident and I have obtained a GIS (Geographic Information System) certificate during my bachelors. I am also member of ABC Taxus (Archery Club).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume Julian.pdf" "newtab" >}}resumé{{< /staticref >}}.
