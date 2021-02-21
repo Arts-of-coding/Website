@@ -1,6 +1,6 @@
 ---
 title: Julian Arts
-role: MSc Student MCLS
+role: "MSc Student MCLS "
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
