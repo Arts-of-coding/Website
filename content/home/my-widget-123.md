@@ -1,6 +1,6 @@
 ---
 widget: homepage
-widget_id: homepage
+widget_id: home
 headless: true
 weight: 10
 active: true
